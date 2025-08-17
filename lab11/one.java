@@ -1,6 +1,6 @@
 // 1. WAP to calculate simple interest using method. (A)
 import java.util.Scanner;
-class one{
+class one11{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give three variable");

@@ -1,6 +1,6 @@
 // 2. WAP to count number of even or odd number from an array of n number. (A)
 import java.util.Scanner;
-class one{
+class EvenOdd{
     public static void main(String[] a){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give the size of an array");

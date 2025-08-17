@@ -1,7 +1,7 @@
 // 3. WAP that calculates area of circle, triangle and square using method overloading. (A)
 
 import java.util.Scanner;
-class three{
+class three111{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give three variable");

@@ -1,7 +1,7 @@
 // 1. WAP to check whether the given number is positive or negative. (A)
 import java.util.Scanner;
 
-class one{
+class one7{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a number");

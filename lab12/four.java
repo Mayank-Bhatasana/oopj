@@ -2,7 +2,7 @@
 // present or not in the list of array elements by using linear search.
 
 import java.util.Scanner;
-class one{
+class four12{
     public static void main(String[] a){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give the size of an array");

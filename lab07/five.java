@@ -1,7 +1,7 @@
 // 5. WAP to find out largest number from given three numbers without using Logical Operator.(C)
 
 import java.util.Scanner;
-class five{
+class five7{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give three number");

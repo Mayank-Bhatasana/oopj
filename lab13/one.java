@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class one{
+class one13{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("What are the row and cols?");

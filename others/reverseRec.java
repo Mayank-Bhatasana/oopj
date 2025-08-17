@@ -1,6 +1,6 @@
 // reverse of number using recurstion
 import java.util.Scanner;
-class one{
+class reverseRec{
     public static void main(String[] a){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a number");

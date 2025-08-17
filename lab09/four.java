@@ -1,6 +1,6 @@
 // 4. WAP to print given number in reverse order. (C)
 import java.util.Scanner;
-class four{
+class four9{
     public static void main(String[] s){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a input");

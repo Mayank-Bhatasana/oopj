@@ -1,7 +1,7 @@
 //WAP that reads a number in meters, converts it to feet, and displays the result
 
 import java.util.Scanner;
-class one{
+class one6{
 	public static void main(String[] args){
 
 		Scanner sc = new Scanner(System.in);

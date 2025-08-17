@@ -1,6 +1,6 @@
 // 2. WAP to find factorial of the given number. (A)
 import java.util.Scanner;
-class two{
+class two9{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a input");

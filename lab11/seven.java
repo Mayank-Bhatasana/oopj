@@ -1,6 +1,6 @@
 // WAP to find the factorial of given number using recursion
 import java.util.Scanner;
-class three{
+class seven11{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a number");

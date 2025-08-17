@@ -1,7 +1,7 @@
 //2. Perform Addition, Subtraction, Multiplication and Division of 2 numbers as per user’s choice. (A)
 
 import java.util.Scanner;
-class two{
+class two6{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 

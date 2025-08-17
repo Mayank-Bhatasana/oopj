@@ -2,7 +2,7 @@
 // that prompts the user to enter two integers and compute the gcd of two integers. [Note: The
 
 import java.util.Scanner;
-class four{
+class five11{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give two number ");

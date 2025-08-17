@@ -1,7 +1,7 @@
 // . WAP that create an array, take the size of array from the user, take the array member from the user
 // and display it using loop
 import java.util.Scanner;
-class one{
+class one12{
     public static void main(String[] a){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give the size of an array");

@@ -3,7 +3,7 @@
 // C grade, 35-50% then P grade and <35 then FT) (A)
 
 import java.util.Scanner;
-class three{
+class two7{
 	public static void main(String[] args){
 
 		Scanner sc = new Scanner(System.in);

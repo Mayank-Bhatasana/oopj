@@ -1,7 +1,7 @@
 // WAP to accept a number and check whether the number is prime or not. Use method name check (int
 // n). The method returns 1, if the number is prime otherwise, it returns 0.
 import java.util.Scanner;
-class three{
+class three11{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a number");

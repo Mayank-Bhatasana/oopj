@@ -4,12 +4,12 @@ class multi{
     public static void main(String[] s){
         Scanner sc = new Scanner(System.in);
         System.out.print("Give the number of row and cols for mat 1");
-        int r1 = nextInt();
-        int c1 = nextInt();
+        int r1 = sc.nextInt();
+        int c1 = sc.nextInt();
 
         System.out.print("Give the number of row and cols for mat 2");
-        int r2 = nextInt();
-        int c2 = nextInt();
+        int r2 = sc.nextInt();
+        int c2 = sc.nextInt();
 
         int arr1 [][]= new int[r1][c1];
         int arr2 [][]= new int[r2][c2];

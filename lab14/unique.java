@@ -20,7 +20,7 @@ class unique{
             if(flag == 1)
                 sum+=arr[i];
         }
-        for (int i = 0; i < max; i++) {
+        for (int i = 0; i < n; i++) {
           System.out.println("SKDJFLSDKFJDLFKJDLj");
         }
       

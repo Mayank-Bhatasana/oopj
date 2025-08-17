@@ -1,6 +1,6 @@
 // 3. WAP to find whether the given number is prime or not without using function. (B)
 import java.util.Scanner;
-class three{
+class three9{
     public static void main(String[] s){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a input");

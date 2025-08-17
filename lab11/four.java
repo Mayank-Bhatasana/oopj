@@ -1,6 +1,6 @@
 // 3. WAP to generate Fibonacci series of N given number using method. (B)
 import java.util.Scanner;
-class four{
+class four11{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
         System.out.println("Give a number for a fibbo");

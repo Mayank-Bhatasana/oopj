@@ -1,6 +1,6 @@
 // 1. WAP to print numbers between two given numbers which is divisible by 2 but not divisible by 3. (A)
 import java.util.Scanner;
-class one{
+class one9{
     public static void main(String[] v){
         Scanner sc = new Scanner(System.in);
 

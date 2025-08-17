@@ -1,6 +1,6 @@
 // 1. WAP to make a Simple Calculator using switch...case. (A)
 import java.util.Scanner;
-class two{
+class calc{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         while(true){
